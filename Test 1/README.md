@@ -37,4 +37,4 @@ The ROC curves and AUC scores are plotted for the test set. The following are th
 ![vort_roc](assets/vort_roc.png)
 
 
-All code is present in the jupyter notebook
+All code is present in the jupyter notebook. The model weights are stored in "classification.model". It will help reproduce the results. 

@@ -17,8 +17,14 @@ Some qualitative metrics have been listed below
 |                | MSE       | PSNR  | SSIM  |
 |----------------|-----------|-------|-------|
 | Generator only | 6.024e-05 | 42.2  | 0.995 |
-| GAN framework  | 8.827e-05 | 40.54 | 0.992 |
+| GAN framework  |  0.00021  | 36.73 | 0.983 |
 
 The results visually are not different. The results from Generator only training are in the following figure
 
 ![gen_only](assets/results_genonly.png)
+
+We see that the images generated are very close to the high resolution images. When trained with the GAN framework, the results are as follows
+
+![gen_only](assets/results_gan.png)
+
+These images are not that usable. Thus, we do not need the GAN framework for this task. 

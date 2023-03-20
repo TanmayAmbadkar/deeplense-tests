@@ -3,7 +3,7 @@
 This repository has my attempts for the ML4SCI DeepLense tests. I am interested in 3 projects at DeepLense
 1. [Superresolution for Strong Gravitational Lensing](https://ml4sci.org/gsoc/2023/proposal_DEEPLENSE6.html)
 2. [Transformers for Dark Matter Morphology with Strong Gravitational Lensing](https://ml4sci.org/gsoc/2023/proposal_DEEPLENSE4.html)
-3. [Deep Regression Techniques for Decoding Dark Matter with Strong Gravitational Lensing](https://ml4sci.org/gsoc/2023/proposal_DEEPLENSE2.html)
+<!-- 3. [Deep Regression Techniques for Decoding Dark Matter with Strong Gravitational Lensing](https://ml4sci.org/gsoc/2023/proposal_DEEPLENSE2.html) -->
 
 The folders have been organised in the order of tests. 
 1. Test 1 - This has the notebook containing my solution for "Common Test I. Multi-Class Classification"

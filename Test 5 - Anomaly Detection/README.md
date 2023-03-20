@@ -18,4 +18,4 @@ The next image shows a scatter plot of all MSE values collected for the training
 
 The anomalous images detected on the test set are as follows:
 
-![anomaly](assets/non_anomaly.png)
+![anomaly](assets/anomaly.png)
